@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/u1117019/public_html/pengen
-    - /bin/cp -r * $DEPLOYPATH
+    - /bin/cp -R * $DEPLOYPATH
