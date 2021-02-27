@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/u1117019/public_html/pengen
+    - export DEPLOYPATH=/home/u1117019/public_html/
     - /bin/cp -R * $DEPLOYPATH
